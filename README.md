@@ -1,10 +1,12 @@
-### NFT Webpage
+# NFT Webpage
 
 This is a custom-designed NFT landing page built from scratch using **HTML**, **CSS**, and **JavaScript**. Inspired by a Scrimba project prompt, I developed the entire layout and styling independently, with a focus on clean structure and responsive design.
 
 > 💡 AI was not used to build this project. It was used solely for documentation purposes such as writing this README. I value building strong programming skills while also knowing how to use AI as a powerful and responsible tool in a modern dev toolkit.
 
 ## ✨ Overview
+
+Live Demo: [https://nft-landing-page-site.netlify.app](https://nft-landing-page-site.netlify.app)
 
 The webpage showcases a modern, mobile-first layout suitable for promoting NFT collections. It includes:
 
