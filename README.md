@@ -6,7 +6,7 @@ This is a custom-designed NFT landing page built from scratch using **HTML**, **
 
 ## ✨ Overview
 
-Live Demo: [https://nft-landing-page-site.netlify.app](https://nft-landing-page-site.netlify.app)
+Live Demo: [https://strong-axolotl-97d576.netlify.app](https://strong-axolotl-97d576.netlify.app)
 
 The webpage showcases a modern, mobile-first layout suitable for promoting NFT collections. It includes:
 
