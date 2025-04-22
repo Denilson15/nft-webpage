@@ -14,6 +14,13 @@ The webpage showcases a modern, mobile-first layout suitable for promoting NFT c
 - A responsive grid layout for displaying items
 - Basic interactivity for an engaging user experience
 
+## ⚙️ How It Works
+
+- The webpage includes a static hero section and a featured NFT grid.
+- JavaScript dynamically loads NFT data into card components on the page.
+- The layout uses CSS Grid for the collection display and Flexbox for the rest of the layout.
+- The site is responsive and adjusts cleanly on mobile screens.
+
 ## 🛠️ Personalization
 
 While the original idea came from Scrimba, I customized the entire design:
