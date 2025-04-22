@@ -1,19 +1,45 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### 🟦 **NFT Webpage**
+```markdown
+# NFT Webpage
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This is a custom-designed NFT landing page built from scratch using **HTML**, **CSS**, and **JavaScript**. Inspired by a Scrimba project prompt, I developed the entire layout and styling independently, with a focus on clean structure and responsive design.
 
-Happy Coding!
+> 💡 AI was not used to build this project. It was used solely for documentation purposes such as writing this README. I value building strong programming skills while also knowing how to use AI as a powerful and responsible tool in a modern dev toolkit.
+
+## ✨ Overview
+
+The webpage showcases a modern, mobile-first layout suitable for promoting NFT collections. It includes:
+
+- A hero section highlighting featured NFTs
+- A responsive grid layout for displaying items
+- Basic interactivity for an engaging user experience
+
+## 🛠️ Personalization
+
+While the original idea came from Scrimba, I customized the entire design:
+
+- Created original HTML structure and CSS layout
+- Tweaked color scheme and styling
+- Adjusted layout for smaller screen sizes
+
+## 🚧 Planned Updates
+
+- Expand layout for better desktop responsiveness
+- Add animations or hover effects
+- Explore performance optimizations
+
+## 🗂️ File Structure (basic)
+
+- `index.html` – structure of the page
+- `style.css` – styling and layout
+- `script.js` – interactivity and behavior
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/Denilson15/nft-webpage.git
+cd nft-webpage
+# Open index.html in your browser
