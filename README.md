@@ -1,8 +1,5 @@
 
----
-
 ### 🟦 **NFT Webpage**
-```markdown
 # NFT Webpage
 
 This is a custom-designed NFT landing page built from scratch using **HTML**, **CSS**, and **JavaScript**. Inspired by a Scrimba project prompt, I developed the entire layout and styling independently, with a focus on clean structure and responsive design.
